@@ -1,2 +1,18 @@
-# gallery
-Адаптивная верстка сайта для галереи искусств с подключением плагинов swiper.js, choices.js, just-validate.js, tippy.js, fancybox.js и jQuery акардионплагинов swiper.js, choices.js, just-validate.js, tippy.js, fancybox.js и jQuery акардион
+# Blanchard
+Адаптивная верстка сайта для галереи искусств Blanchard с подключением плагинов:
+<ul>
+<li>swiper.js</li>
+<li>choices.js</li>
+<li>just-validate.js</li>
+<li>tippy.js</li>
+<li>fancybox.js</li>
+<li>jQuery акардион</li>
+</ul>
+<h2>Требования к верстке</h2>
+<ul>
+  <li>Семантичность - корректное использование тегов</li>
+  <li>Адаптивность - возможность просматривать страницу на всех устройствах</li>
+  <li>БЭМ - соблюдение методологии бэм</li>
+  <li>Доступность - возможность навигации с клавиатуры и комфортный доступ через screen reader</li>
+  <li>Кроссбраузерность - корректное отображение страницы в Chrome, Firefox, Opera, Safari, Edge последних версий</li>
+</ul>
